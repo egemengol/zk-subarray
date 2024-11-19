@@ -1,0 +1,31 @@
+{
+  "dg1": "YVtfH1hQPEdCUkJBR0dJTlM8PEZST0RPPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PFAyMzE0NTg5MDFHQlI2NzA5MjI0TTIyMDkxNTFaRTE4NDIyNkI8PDw8PDE4",
+  "lds": "MIH9AgEAMAsGCWCGSAFlAwQCATCB6jAlAgEBBCDeD6pnk73emfcfvBVXNSIRThZT9sZB7VY9anFRg+zczDAlAgECBCDbwbTJAP/kjVdbXaXGOAQBJfZdsP4+JElLduqYZFfZhjAlAgEDBCAIT+0IuXivTX0ZanRGqGtYAJ5ja2EdsWIRtlqarf8pxTAlAgELBCDnz0ageP7U+v0LXjr/FEgCuFP4rkWaTwwUrdMxS3zDpjAlAgEMBCDvbL0hYerqeUPOhpO5gk0j0Xk/+xwPygW2ANOJm0TJdzAlAgEOBCBNez73MArPcMiS2DJ9uCcvVENK28YaThMKVjy1mg0PRw==",
+  "signed_attrs": "MUgwFQYJKoZIhvcNAQkDMQgGBmeBCAEBATAvBgkqhkiG9w0BCQQxIgQg+1VZ3wWv07Os0SIYM8EKVH49KgDNYbVupNiXuIUWxOk=",
+  "digest_algo": "id-sha256",
+  "document_signature": {
+    "type": "EC",
+    "r": "AN74lDS+/EBzrf7l4XCzjpJ8HHWhMwAT8NAVhkd4bjKq",
+    "s": "EZ8M30IDErLG7ox7Oy3JJSGHkqFkICQ4NGg6eobHmfI="
+  },
+  "cert_local_pubkey": {
+    "type": "EC",
+    "curve": "secp256k1",
+    "x": "joQwk4/idQC70dP5hXtEeSjaoj8YXQXsllGFOUsC8Bc=",
+    "y": "ynoDsE+5hRIWxBIA2etFXbZGvvtA0GU5r+sG11qYDME="
+  },
+  "cert_local_tbs": "MIIB6jCCAZGgAwIBAgIBATAKBggqhkjOPQQDAjAdMRswGQYDVQQDDBJDb3VudHJ5IFNpZ25pbmcgQ0EwHhcNMjQxMTE4MjE1NjIzWhcNMjUxMTE4MjE1NjIzWjAaMRgwFgYDVQQDDA9Eb2N1bWVudCBTaWduZXIwVjAQBgcqhkjOPQIBBgUrgQQACgNCAASOhDCTj+J1ALvR0/mFe0R5KNqiPxhdBeyWUYU5SwLwF8p6A7BPuYUSFsQSANnrRV22Rr77QNBlOa/rBtdamAzBo4HHMIHEMB0GA1UdDgQWBBTbKrbxjTBjV7PpOhX8kXtj0aWqYzAfBgNVHSMEGDAWgBQjPOshe1Gm5tegf9nGicMyM8Rt8zAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIGwDApBgNVHQ4EIgQgOkEwxfqyeHl/Q7w4+/6kvOj/sSolgEwbtnHqPhVQpf4wKwYDVR0jBCQwIoAgENQA5ZHXYZPKAwWtEh+TBUgsMZulWYg4FP7yQhzTmJUwDAYDVR0TAQH/BAIwADAKBggqhkjOPQQDAgNHADBEAiBE/nINIokqo9QRScreilJ4dlGUASgSAIgMR/qtkpiRQgIgaRV7falO4pR41u6KNP1prxD9lzw90tgiD10m0DNHmdc=",
+  "cert_local_tbs_digest_algo": "id-sha256",
+  "cert_local_signature": {
+    "type": "EC",
+    "r": "AKJJbDDHyuoMhKkvVBkYn1pTXlUC43b/k38U7qNnpxxt",
+    "s": "XRDjIfxQ2jsoKBbV3gOWAFpmySe9RDettpIfjnGwoH4="
+  },
+  "cert_master_subject_key_id": "ENQA5ZHXYZPKAwWtEh+TBUgsMZulWYg4FP7yQhzTmJU=",
+  "cert_master_pubkey": {
+    "type": "EC",
+    "curve": "secp256k1",
+    "x": "9o3aHHXdTmK0MRXm3cLI6S4FEuJQQeXXZXiQtWIp8WU=",
+    "y": "YoavijAvzzQokaaihTgvh8sfTtBIY3k4ADwx/bmuwWw="
+  }
+}
